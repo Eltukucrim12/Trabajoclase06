@@ -32,6 +32,8 @@ body{
 
 .nose a:hover{
     background-color: honeydew;
+    border-radius: 70%;
+    
 }
 .formulario{
     
